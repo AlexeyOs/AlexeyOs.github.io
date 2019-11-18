@@ -1,4 +1,4 @@
-# Перечень курсов взят с https://yandex.ru/profi/mooc
+# Перечень курсов взят с [https://yandex.ru/profi/mooc](https://yandex.ru/profi/mooc)
 
 ## **1. Программирование и информационные технологии**
 
