@@ -1,5 +1,6 @@
 ## Список публикаций:
 
+- [Первый провал тестового задания по алгоритмам](articles/algorithmicTraining/ALGORITHMIC_TRAINING.md)
 - [О подготовке к олимпиаде "Я профессионал"](articles/yandex/PREPARE_I_PROFESSIONAL.md)
 - [Moodle против Gihub Pages + Google Forms. Oписание выбора технологии для реализации обучающего ресурса](articles/course/MOODLEVSGIHUBPAGES.md)
 - [Cписок курсов, которые Яндекс может засчитать вместо дистанционного отборочного этапа для олимпиады "Я профессионал"](articles/yandex/COURSES.md)
